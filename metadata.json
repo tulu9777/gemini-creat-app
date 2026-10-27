@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Photo Editor",
+  "description": "Online Trending Photo Editing & Prompt Generator Hub powered by Gemini AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
